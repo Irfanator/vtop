@@ -1,0 +1,34 @@
+{
+	"name": "Neko T60",
+	"author": "Irfanator",
+	"title": {
+		"fg": "#7f8063"
+	},
+	"chart": {
+		"fg": "#c7a479",
+		"border": {
+			"type": "line",
+			"fg": "#f1f0dd"
+		}
+	},
+	"table": {
+		"fg": "white",
+		"items": {
+			"selected": {
+				"bg": "#aeae8d",
+				"fg": "#000000"
+			},
+			"item": {
+				"fg": "#ffffff",
+				"bg": "#000000"
+			}
+		},
+		"border": {
+			"type": "line",
+			"fg": "#f1f0dd"
+		}
+	},
+	"footer": {
+		"fg": "#f1f0dd"
+	}
+}
